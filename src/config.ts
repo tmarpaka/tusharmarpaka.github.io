@@ -1,6 +1,6 @@
 export const SITE = {
   website: "https://tmarpaka.github.io/tusharmarpaka",
-  base: "/tusharmarpaka"  // replace this with your deployed domain
+  base: "/tusharmarpaka",  // replace this with your deployed domain
   author: "Tushar Marpaka",
   profile: "https://tmarpaka.github.io/tusharmarpaka",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
